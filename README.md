@@ -3,6 +3,9 @@
 Description of what I did:
 I built a mini Youtube search app that allows you to browse videos on Youtube
 with a quick search. I followed instructions from an extra credit assignment from CS52.
+As provided by Tim, I used brew, yarn, atom, and expo to run and test my programs. I followed
+instructions on how to get API keys from Google and used them in my app to retrieve
+Youtube data from the Youtube server. I did not use any frameworks for this assignment.
 
 Created by:
 Steven Kim (worked alone)
