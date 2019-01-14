@@ -31,6 +31,7 @@ const instnav = createBottomTabNavigator(
         ),
       }),
     },
+    // LinkTab,
   },
   {
     initialRouteName: 'SearchTab',
